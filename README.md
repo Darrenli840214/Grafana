@@ -6,12 +6,12 @@
 
 * [Grafana 環境安裝](https://github.com/Darrenli840214/Grafana/tree/main/Grafana%20install)
 
-* [Elasticsearch 環境安裝](#elaenv)
+* [Elasticsearch 環境安裝](https://github.com/Darrenli840214/Grafana/tree/main/Elasticsearch%20install)
 
-* [Logstash 環境安裝](#logstashenv)
+* [Logstash 環境安裝](https://github.com/Darrenli840214/Grafana/tree/main/Logstash%20install)
 
-* [Kibana 環境安裝](#kibanaenv)
+* [Kibana 環境安裝](https://github.com/Darrenli840214/Grafana/tree/main/Kibana%20install)
 
 ## Grafana Plugins 各功能簡介
 
-* [Grafana Plugins 簡介](https://github.com/Darrenli840214/Grafana/plugins) : 簡單介紹各 Plugins 功能
+* [Grafana Plugins 簡介](https://github.com/Darrenli840214/Grafana/tree/main/plugins) :  Plugins 功能
