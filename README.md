@@ -4,7 +4,7 @@
 
 ## Grafana、ELK 環境安裝
 
-* [Grafana 環境安裝](#grafanaenv)
+* [Grafana 環境安裝](https://github.com/Darrenli840214/Grafana/tree/main/Grafana%20install)
 
 * [Elasticsearch 環境安裝](#elaenv)
 
