@@ -14,4 +14,4 @@
 
 6. `如是用雲端虛擬機，則需另在去防火牆規則中新增 3000/tcp port (eg. GCP 要去虛擬私有雲網路中的防火牆設定)`
 
-![img](img/GCP_firewall.png)
+![img](https://github.com/Darrenli840214/Grafana/blob/main/img/GCP_firewall.png)
