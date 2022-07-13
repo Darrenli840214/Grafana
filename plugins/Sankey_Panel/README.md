@@ -2,7 +2,7 @@
 
 <h2 id="use">用途</h2>
 
-適合可視化水流數據，並且水流的寬度將與所選指標成比例
+可以製作可視化水流數據，並且水流的寬度將與所選指標成比例
 
 <h2 id="install">安裝方式</h2>
 
@@ -17,8 +17,8 @@ grafana-cli plugins install netsage-sankey-panel
 
 <h2 id="do_example">實作練習</h2>
 
-![img](test1.png)
-![img](test2.png)
-![img](test3.png)
-![img](test4.png)
-![img](test5.png)
+![img](img/test1.png)
+![img](img/test2.png)
+![img](img/test3.png)
+![img](img/test4.png)
+![img](img/test5.png)
